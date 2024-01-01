@@ -6,8 +6,8 @@ import fetch from 'node-fetch'
 import axios from 'axios'
 
 
-global.owner = [
-  ['917605902011', 'GURU', true],
+global.owner = [ Hinata
+  ['918473891245', 'Hinata's bot', true],
   ['6281255369012', 'Ash', true], 
   [''] 
 ] //Number of owners
